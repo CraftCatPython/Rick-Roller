@@ -1,0 +1,10 @@
+REQUIREMENTS:
+tkinter,
+PIL,
+ImageTk,Image,
+time,
+tkvideo,
+pygame,
+tkinter.font as font,
+ttk,
+time
